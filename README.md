@@ -1,4 +1,7 @@
-# m1688-selection-ops — 1688 選品採集技能（跨裝置可攜）
+# 2799漏勺（repo: 2799-loushao）— 1688 選品採集技能（跨裝置可攜）
+
+> 分組：shopee小巧思 ｜ 倉庫名用拼音是 GitHub 限制（repo 名不接受中文）
+> 改名目的：避免他人直接搜尋「1688 選品 skill」就取得可用的腳本
 
 > 這是把 DSH 技能 `m1688-selection-ops` 打包成**獨立可攜**的版本。
 > 換一台電腦時：下載本 repo → 執行 `install.ps1` → 把技能資料夾放進你的 client 的 skills 目錄。
